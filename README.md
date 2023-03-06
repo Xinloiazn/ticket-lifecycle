@@ -92,11 +92,11 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <br />
 <br />
 <p>
-  And there you have it. This was just a very simple scenario of the creation of a ticket by a user, assignment and communication of a ticket between agents, and ultimately it's resolution.
+  This was a very simplistic scenario of the creation of a ticket by a user, how the ticket is assigned and displays the communication of a ticket between agents; subsequently resulting in a resolution.
 </p>
 <p>
-  There many other scenarios that can happen during the handling of a ticket. Sometimes a ticket has to be reassigned to a different department. Other times it's priority needs to be escalated. Or sometimes it needs to be both reassigned and escalated.
+  There are additional scenarios that can also happen while a ticket is being assessed. A ticket can either be reassigned to a different department, escalated in severeity level, or needs to be both reassigned to a more qualified agent/department to handle the issue, depending on business impacts.
 </p>
 <p>
-  I hope this tutorial helps you understand what can typically go on behind the scenes of a help desk department. During any given day, help desk agents can have anywere between just 10 tickets all the way up to hundreds of tickets in their pipeline. So if this is something you'd like to do, just keep that in mind.
+  I hope this tutorial helps you understand and have a better general overview of a life-cycle of a ticket. Help desk agents can expect to regularly deal with anywere between 10 to 100 tickets during their day depeneding on the company size.
 </p>
